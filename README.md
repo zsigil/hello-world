@@ -1,3 +1,3 @@
 # hello-world
-my first repository
+my first repo
 creating my first update
